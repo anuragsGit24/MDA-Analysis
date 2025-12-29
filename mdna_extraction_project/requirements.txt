@@ -1,0 +1,6 @@
+pymupdf
+pdfplumber
+pandas
+numpy
+tqdm
+openpyxl
