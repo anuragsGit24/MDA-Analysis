@@ -1,4 +1,4 @@
-company_folder,company_name,report_file,financial_year,mdna_start_page,mdna_end_page,mdna_text,start_method,end_method,mdna_title_used,next_title_used,word_count,narrative_density,keyword_hits,quality_passed
+company_folder,company_name,report_file,financial_year,mdna_start_page,mdna_end_page,mdna_text,start_method,end_method,word_count,narrative_density,keyword_hits,quality_passed
 Alcheimist,ALCHEMIST LTD,5267070319.pdf,2018-19,26,95,"ALCHEMIST LIMITED
 23
 Annexure VI
@@ -6648,7 +6648,7 @@ Report on the Audit of Consolidated Financial Statements
 Qualified Opinion
 We have audited the accompanying consolidated financial statements of Alchemist Limited (“the Holding Company”) and
 its subsidiaries and associates (the Holding Company, its subsidiaries and associates together referred to as ‘the Group’),
-which comprise the Consolidated",visual,visual,"LSC, Near Savitri Market, Janakpuri, New Delhi - 110058",Financial Statements,32968,0.7227276596147117,"['risk management', 'segment performance']",False
+which comprise the Consolidated",visual,visual,32968,0.7227276596147117,"['risk management', 'segment performance']",False
 Alcheimist,ALCHEMIST LIMITED,67050526707.pdf,2019-20,29,32,"29
 Annexure VI
 MANAGEMENT DISCUSSION AND ANALYSIS REPORT
@@ -6887,7 +6887,7 @@ Place:  New Delhi
 Sd/-
 Bikram Bhattacharya
 (Whole-Time Director)
-DIN-03595530",visual,visual,"C- , Village Chanalon, Near Kurali, District Mohali , Punjab",Report on Corporate Governance,3402,0.8195173137460651,[],False
+DIN-03595530",visual,visual,3402,0.8195173137460651,[],False
 ALok,ALOK,5210700315.pdf,,57,81,"PRIMED
 TO UNLOCK VALUE
 52
@@ -9741,7 +9741,7 @@ manner. Already, with the projects reaching different levels
 of completion, Alok is starting to work on monetising these
 assets and utilising the cash to retire debt. The details of the
 property and the position of the sale out of the real estate assets
-is given in table 16 & 17:",visual,visual,Management Discussion & Analysis,Balance Sheet,15167,0.7516244296630201,[],False
+is given in table 16 & 17:",visual,visual,15167,0.7516244296630201,[],False
 ALok,ALOK,5210700316.pdf,2015-16,49,66,"FAITH FOCUS COMMITMENT
 46
 Management Discussion
@@ -11898,7 +11898,7 @@ publicly update any forward-looking statements, whether as a result
 of new information, future events or otherwise
 
 Innovative Textile Solutions    63
-Report On",visual,visual,Management Discussion and Analysis,Corporate Governance Report and Annexure,12338,0.7543013609056357,['risk management'],False
+Report On",visual,visual,12338,0.7543013609056357,['risk management'],False
 ALok,ALOK,5210700317.pdf,2016-17,64,89,"61
 Alok industries is amongst the largest vertically integrated
 textile companies in India with manufacturing capabilities
@@ -14610,7 +14610,7 @@ strong and independent internal audit function consisting
 of professionally qualified accountants with external audit
 firms monitoring the internal control process at each of the
 manufacturing location. The Company periodically review
-accounting guidelines to ensure uniformity of",visual,fallback,Management Discussion and Analysis,Corporate Governance Report and Annexure,13124,0.73446017490882,"['risk management', 'global economy']",False
+accounting guidelines to ensure uniformity of",visual,fallback,13124,0.73446017490882,"['risk management', 'global economy']",False
 ALok,ALOK,5210700318.pdf,2017-18,65,67,"62
 of its capacity due to the adverse financial situations,
 it has continued to utilize fully, the balance 50% even
@@ -14877,7 +14877,7 @@ Nominee Director -LIC of India
 and are to be exercised by the interim resolution professional or resolution professional, as the case may be,
 in accordance with the provisions of the Code. Further, in terms of the SEBI LODR Regulations, a company
 undergoing CIR process is not required to comply with Regulation 17 of the SEBI LODR Regulations dealing with
-the requirement of composition of the board of directors.",visual,visual,Management Discussion & Analysis,Notes,1887,0.8065252854812398,[],False
+the requirement of composition of the board of directors.",visual,visual,1887,0.8065252854812398,[],False
 Amit_spinning,AMIT SPINNING INDUSTRIES LIMITED,5210760315.pdf,2014-15,8,15,"FINANCIAL ANALYSIS AND PERFORMANCE REVIEW
 During the fiscal 2014-15, the turnover of the Company increased to Rs. 3,205.52 Lakhs as compared to Rs. 2,638.57 Lakhs in the previous
 year. However due to sluggish market, increase in labour, power and other operational costs , and  financial constraints , Company could not
@@ -15650,7 +15650,7 @@ the year
 Total
 Total
 Shares
-Share",fallback,fallback,Annexures to Directors' Report,Corporate Governance,5897,0.7651032619185485,"['risk management', 'future outlook']",False
+Share",fallback,fallback,5897,0.7651032619185485,"['risk management', 'future outlook']",False
 Amit_spinning,AMIT SPINNING INDUSTRIES LIMITED,5210760316.pdf,2015-16,7,12,"FINANCIAL ANALYSIS AND PERFORMANCE REVIEW
 During the financial year 2015-16 under review, your company could  not utilize its  capacities due to financial constraints/shortage of
 working capital and the unit of the company located at Kolhapur remained inoperative accordingly the revenue from operations
@@ -16001,7 +16001,7 @@ The Board of Directors of the Company was not constituted with proper balance of
 Independent Directors as on March 31, 2016.  However, as on June 30, 2016, the composition of the Board of Directors of the
 Company is in conformity with the requirements as stipulated under SEBI (LODR) Regulations, 2015 and the Companies Act,
 2013 and rules framed there under.
-09",visual,visual,". To consider and, if thought fit, to pass, with or without modifications the following resolution as an Ordinary Resolution",Notes,4442,0.7904232181695012,"['risk management', 'future outlook']",False
+09",visual,visual,4442,0.7904232181695012,"['risk management', 'future outlook']",False
 Amit_spinning,AMIT SPINNING INDUSTRIES LIMITED,5210760317.pdf,2016-17,6,46,"FINANCIAL ANALYSIS AND PERFORMANCE REVIEW
 During the financial year 2016-17 under review,  due to financial constraints and shortage of working capital the Company
 operations have remained suspended since 11th August, 2015 resulting in revenue from operations decreased in the
@@ -20638,7 +20638,7 @@ Absences
 Gratuity
 (Funded)
 (   )
-(Figures in    )",visual,visual,"Brief resume of Mr. Vijay Bhan Singh, nature of his expertise in specific functional areas are provided in the Corporate",Balance Sheet,24327,0.7270925290174922,['risk management'],False
+(Figures in    )",visual,visual,24327,0.7270925290174922,['risk management'],False
 Amit_spinning,AMIT SPINNING INDUSTRIES LTD,5210760318.pdf,2017-18,4,19,"FINANCIAL ANALYSIS AND PERFORMANCE REVIEW
 Due to the financial constraints the company's operations remain suspended during the year under review resulting in
 decrease in revenue from operations in the current financial year ended 31st March, 2018 of Nil as compared to Rs. 15.85
@@ -21819,7 +21819,7 @@ Date: 10.08.2018
 Director
 Manager
 
-AMIT SPINNING INDUSTRIES LIMITED",visual,visual,"Saturday, the 22nd September, to Thursday, the 27th September, (both days inclusive)",Financial Statements,10086,0.7769999684671901,['risk management'],False
+AMIT SPINNING INDUSTRIES LIMITED",visual,visual,10086,0.7769999684671901,['risk management'],False
 Amtek,AMTEK AUTO LIMITED,5200770316.pdf,2015-16,64,70,"MANAGEMENT DISCUSSION AND ANALYSIS REPORT
 1.
 GLOBAL ECONOMIC OVERVIEW
@@ -22193,7 +22193,7 @@ Review of capital investments and long term business plans
 ●
 Periodic review meetings to guide optimum utilization of resources
 ●
-Effective use of resources and safeguarding of assets",visual,visual,Management Discussion & Analysis Report,Auditors’ Report,3756,0.8018895531123281,"['risk management', 'global economy']",True
+Effective use of resources and safeguarding of assets",visual,visual,3756,0.8018895531123281,"['risk management', 'global economy']",True
 Amtek,AMTEK AUTO LIMITED,5200770317.pdf,2016-17,65,73,"64 | AMTEK AUTO LIMITED
 MANAGEMENT DISCUSSION AND ANALYSIS REPORT
 1.
@@ -22610,7 +22610,7 @@ DIN No. 00157498
 Date
 :
 22.07.2017
-DIN No. 000472(Whole Time Director)",visual,visual,Management Discussion & Analysis Report,Independent Auditor,4852,0.8038418079096045,[],False
+DIN No. 000472(Whole Time Director)",visual,visual,4852,0.8038418079096045,[],False
 Amtek,AMTEK AUTO LIMITED,5200770318.pdf,2017-18,66,74,"(Company under Corporate Insolvency Resolution Process)
 MANAGEMENT DISCUSSION AND ANALYSIS REPORT
 1.
@@ -22921,7 +22921,7 @@ Periodic review meetings to guide optimum utilisation of resources
 
 Effective use of resources and safeguarding of assets
 The Audit Committee reviews the effectiveness of internal control systems, and also provides timely updates on operating
-effectiveness and controls to senior management team. A CEO and CFO Certificate, forming part of the",visual,visual,Management Discussion & Analysis Report,Auditors’ Report,3643,0.7941509762900977,['global economy'],False
+effectiveness and controls to senior management team. A CEO and CFO Certificate, forming part of the",visual,visual,3643,0.7941509762900977,['global economy'],False
 Amtek,AMTEK AUTO LIMITED,5200770915.pdf,2014-15,56,61,"56 | AMTEK AUTO LIMITED
 MANAGEMENT DISCUSSION AND ANALYSIS REPORT
 1.
@@ -23139,4 +23139,4 @@ Review of capital investments and long term business plans
 Periodic review meetings to guide optimum utilization of resources
 
 Effective use of resources and safeguarding of assets
-The Audit Committee reviews the effectiveness of internal control systems, and also provides timely updates on operating",visual,visual,Management Discussion & Analysis Report,Auditors’ Report,2833,0.8160675381263617,"['risk management', 'global economy']",True
+The Audit Committee reviews the effectiveness of internal control systems, and also provides timely updates on operating",visual,visual,2833,0.8160675381263617,"['risk management', 'global economy']",True
